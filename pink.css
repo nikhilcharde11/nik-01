@@ -1,0 +1,28 @@
+.story-section .story-item i,
+.people-section .people-item-inner .social-links a i,
+.story-section .story-text span.date,
+.couple-section .social-links a i,
+.couple-section .couple i.fa-heart,
+.header .nav ul li a.active,
+.header .nav ul li a:hover,
+.btn-1:hover{
+    color: #fb839e;
+}
+
+
+
+
+.btn-1,
+.people-section .people-item-inner .social-links a i,
+.event-section .event-item-inner:before,
+.couple-section .social-links a i{
+    border-color: #fb839e;
+}
+
+.btn-1,
+.rsvp-section,
+.people-section .people-item-inner .social-links a:hover i,
+.couple-section .social-links a:hover i,
+.people-section .filter-btn.active{
+    background-color: #fb839e;
+}
